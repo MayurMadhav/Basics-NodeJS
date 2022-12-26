@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Ramesh Aravind",
+        "phone": "9148827639",
+        "role": "Sales Executive",
+        "DayOFF": "Sunday",
+        "Gender": "Male",
+        "salary": 20000,
+        "bonus":  0.20
+    },
+    {
+        "name": "Prashanth CA",
+        "phone": "9100997798",
+        "role": "Senior Accountant",
+        "DayOFF": "Sunday",
+        "Gender": "Male",
+        "salary": 18000,
+        "bonus":  0.25
+    },
+    {
+        "name": "Gurumurthy H",
+        "phone": "9800657341",
+        "role": "Wholesale Dealer",
+        "DayOFF": "Thursday",
+        "Gender": "Male",
+        "salary": 23000,
+        "bonus":  0.15
+    },
+    {
+        "name": "Latha U",
+        "phone": "9239123812",
+        "role": "Packaging Department",
+        "DayOFF": "Saturday",
+        "Gender": "Female",
+        "salary": 7000,
+        "bonus":  0.05
+    },
+    {
+        "name": "Nagesh Kariyappa",
+        "phone": "7827312812",
+        "role": "Delivery Agent",
+        "DayOFF": "Wednesday",
+        "Gender": "Male",
+        "salary": 15000,
+        "bonus":  0.10
+    },
+    {
+      "name": "Vani Anand",
+      "phone": "9483982932",
+      "role": "Sweet Chef",
+      "DayOFF": "Sunday",
+      "Gender": "Female",
+      "salary": 15000,
+      "bonus":  0.10
+    }
+]
